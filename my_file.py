@@ -1,3 +1,3 @@
 import sys
 
-sys.exit(4)
+sys.exit(0)
