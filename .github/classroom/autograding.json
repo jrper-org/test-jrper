@@ -1,0 +1,13 @@
+{
+  "tests": [
+    {
+      "name": "test",
+      "setup": "",
+      "run": "python my_file.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": null
+    }
+  ]
+}
